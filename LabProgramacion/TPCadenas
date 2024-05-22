@@ -1,0 +1,29 @@
+n=int (input("Inserte un numero"))
+for i in range (1, n + 1):
+   print("*" *(2 * i -1))
+
+
+palabra = input("Inserte una palabra")
+espacio = (80 - len(palabra)//2)
+print("80" * espacio + palabra)
+
+
+palabra = input("Inserte una palabra")
+espacio = (140 - len(palabra)//2)
+print(" " * espacio + palabra)
+
+
+palabra = input("Inserte una palabra")
+longitud= len(palabra)+ 4
+print("*" * longitud)
+print("*" + palabra "*")
+print("*" * longitud)
+
+
+palabra = input("Inserte una palabra")
+letra = input("Inserte una letra")
+contador = 0
+for i in palabra
+if i ==letra:
+   contador =  +  0
+print(contador)

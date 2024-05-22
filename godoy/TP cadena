@@ -1,0 +1,60 @@
+N = int(input("ingrese un numero"))
+for i in range (1,N+1) :
+  print(end="*")
+
+
+
+N = int(input("ingrese un numero"))
+for i in range (1,N+1) :
+  print("*"*i)
+
+
+
+N = int(input("ingrese un numero"))
+for i in range (1,N+1):
+  print("*" * (2*i - 1))
+
+
+
+
+
+
+palabra = input("ingrese una palabra: ")
+espacio = (160- len(palabra)) // 2
+print(" " * espacio + palabra)
+
+
+
+
+palabra = input("ingrese una palabra: ")
+espacio = (330- len(palabra)) // 2
+print(" " * espacio + palabra)
+
+
+palabra = input ("ingresar palabra")
+longitud = len (palabra) + 4
+print ("*" * longitud)
+print ("*" + palabra + "*")
+print ("*" * longitud)
+
+
+
+palabra = input ("ingresar palabra")
+letra = input ("ingrese una letra")
+contador = 0
+for i in palabra:
+   if i== letra:
+     contador + 1
+print (contador)
+
+
+palabras = int(input(poner palabra))
+for i in palabras:
+   if i == "a" or  i == "e" or i == "i" or i =="o" or i == "u"
+
+
+cadena = input ("ingrese una palabar")
+letra = input ("ingrese una letra")
+cadena_modificada = cadena.replace (letra, "*")
+print ("la cadena modificada es:", cadena_modificada)
+
