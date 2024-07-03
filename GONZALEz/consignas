@@ -1,0 +1,12 @@
+1. Lo usamos para mandar lo que hay o escribimos al repositorio con el link
+del repositorio y si no lo usamos lo que va a pasar es que no a poder 
+mandarlo a ningun lado.
+
+2. La diferencia de git add y git push es que git add sirve para añadir 
+las carpetas y archivo que creamos en la terminar y git push sirve para meter
+esa informacion al repositorio.
+
+3. lo usamos por que git push orgin main lo manda a un origen pricipal que
+serian a las ramas del repositorio y git push solo empujar no lo manda a 
+ningun lado y queremos enviar las cosas a la rama del repositorio.
+
